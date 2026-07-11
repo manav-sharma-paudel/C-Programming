@@ -1,4 +1,4 @@
-//Referece and Pointer in C++
+//Reference and Pointer in C++
 
 #include <iostream>
 using namespace std;
